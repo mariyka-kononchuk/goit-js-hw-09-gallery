@@ -1,6 +1,6 @@
-import { galleryItems } from './galleryItems';
+import { galleryItems } from './gallery-items';
 import { refs } from './refs';
-import { onOpenModal } from './openModal';
+import { onOpenModal } from './open-modal';
 
 function makeImage(images) {
   return images

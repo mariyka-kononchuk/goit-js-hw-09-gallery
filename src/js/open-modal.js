@@ -1,6 +1,6 @@
 
 import { refs } from './refs';
-import { onCloseModal } from './closeModal';
+import { onCloseModal } from './close-modal';
 
 refs.imageGallery.addEventListener('click', onOpenModal);
 
